@@ -1,0 +1,37 @@
+1. DATE:
+
+import java.util.Calendar;
+import java.text.SimpleDateFormat;
+
+public class GetDateNow {
+  public static void  main(String arg[]) {
+  Calendar currentDate = Calendar.getInstance();
+  SimpleDateFormat formatter= 
+  new SimpleDateFormat("yyyy/MMM/dd HH:mm:ss");
+  String dateNow = formatter.format(currentDate.getTime());
+  System.out.println("Now the date is :=>  " + dateNow);
+  }
+}
+
+2. Relative Path:
+
+A better way to add library to Netbenas would be
+
+Tools -> Libraries -> New Library...
+
+After it:
+
+Project tab -> [your project] -> Properties -> Libraries -> Add Library
+
+This would be always "relative"
+
+3. code refactoring:
+	take interface into account -> which days to index and thus relate together
+	lower case checking
+	add word Nepal for nepali articles
+	make scoring decision dynamic
+
+
+4. Useful queries:
+
+update sna_article set sub_category=null where channel<>"EKantipur" and sub_category<>30

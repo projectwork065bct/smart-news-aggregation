@@ -1,0 +1,4 @@
+select * from sna_article where date<=CURDATE() and date>=DATE_SUB(CURDATE(),INTERVAL 10 DAY)ORDER BY date DESC
+/*
+*This query will take the articles from database from current date to 10 days in past , in descending order
+*/

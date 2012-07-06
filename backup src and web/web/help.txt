@@ -1,0 +1,38 @@
+help to use phpmyadmin
+
+//only edit
+ [picture showing name of tables]
+sna_channel table contains channel name and the channel is active or not
+sna_rss table contains rss feed link and the rss link is active or not
+
+ this icon [edit icon picture] is for edit
+//this icon [delete icon picture] is for delete
+
+to edit:
+ click on this icon [edit icon picture]
+ [picture showing value editable and go]
+then edit the value 
+then click go
+
+/*to delete:
+click on this icon [delete icon picture]
+then click on ok
+*/ 
+
+to edit channel ( activate or deactivate the channel ):
+ [picture showing mouse on edit]
+click on the icon[edit icon]
+ [picture showing value editable with highlight on is_active value]
+to activate change the value of is_active into 1
+to deactivate change the value of is_active into 0
+ [picture showing mouse on go button]
+then click go
+
+to edit rss ( activate or deactivate the rss link ):
+ [picture showing mouse on edit]
+click on the icon[edit icon]
+ [picture showing value editable with highlight on is_active value]
+to activate change the value of is_active into 1
+to deactivate change the value of is_active into 0
+ [picture showing mouse on go button]
+then click go

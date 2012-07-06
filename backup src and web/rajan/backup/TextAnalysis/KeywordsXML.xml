@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : KeywordsXML.xml
+    Created on : July 26, 2011, 6:02 PM
+    Author     : robik
+    Description:
+        Purpose of the document follows.
+  !!!!!!  NOTE: PLACE THIS FILE INSIDE ../GLASSFISH/DOMAINS/DOMAIN1 !!!!!!
+  !!!!!!!!This xml file is not the file which is read by XMLReader!!!!!!!!!
+-->
+
+<root>
+    <category name="National">
+        
+        <subCategory name="Accident">
+            <terms weight="3">
+                <term>accident</term>
+                <term>accidents</term>
+                <term>ambulance</term>
+                <term>ambulances</term>
+                <term>killed</term>
+                <term>injured</term>
+                <term>police</term>
+                <term>critical condition</term>
+                <term>rescue operation</term>
+                <term>road mishap</term>
+                <term>landslide</term>
+                <term>custody</term>
+                <term>flood</term>
+                <term>earthquake</term>
+                <term>volcano</term>
+            </terms>
+            
+            <terms weight="2">
+                <term>died</term>
+                <term>dead</term>
+            </terms>
+        </subCategory>
+        
+        
+        <subCategory name="Security And Crime">
+            <terms weight="3">
+                <term>bomb</term>
+                <term>bombs</term>
+                <term>bullet</term>
+                <term>bullets</term>
+                <term>gun</term>
+                <term>guns</term>
+                <term>crime</term>
+                <term>crimes</term>
+                <term>armed</term>
+                <term>armed outfit</term>
+                <term>firing</term>
+                <term>criminal</term>
+                <term>criminals</term>
+                <term>shoot</term>
+                <term>police</term>
+                <term>claimed responsibility for the incident</term>
+                <term>embezzlement</term>
+                <term>steal</term>
+                <term>robbery</term>
+                <term>extortion</term>
+                <term>abduction</term>
+                <term>extortionists</term>
+                <term>cold blood</term>
+                <term>gunman</term>
+                <term>gunmen</term>
+                <term>pistol</term>
+                <term>rounds of bullet</term>
+                <term>kidnapped</term>
+                <term>terrorised</term>
+                <term>terrorists</term>
+                <term>prison</term>
+                <term>jail</term>
+                <term>jailbird</term>
+                <term>prisoners</term>
+            </terms>
+                
+            <terms weight="2">
+                <term>shot</term>
+                <term>killed</term>
+                <term>injured</term>
+                <term>barged</term>
+                <term>gang</term>
+                <term>threat</term>
+                <term>intimidation</term>
+                <term>security agencies</term>
+                <term>law and order</term>
+            </terms>
+        </subCategory>
+   
+        <subCategory name="Education">
+            <terms weight="3">
+                <term>education</term>
+                <term>school</term>
+                <term>schools</term>
+                <term>college</term>
+                <term>colleges</term>
+                <term>university</term>
+                <term>student</term>
+                <term>students</term>
+                <term>principal</term>
+                <term>principals</term>
+                <term>teacher</term>
+                <term>teachers</term>
+                <term>academic</term>
+                <term>dropout</term>
+                <term>curriculum</term>
+                <term>book</term>
+                <term>books</term>
+                <term>education fair</term>
+            </terms>
+          
+            <organization weight="4">
+                <word>PABSON</word>
+            </organization>
+        </subCategory>
+   
+        <subCategory name="Environment">
+            <terms>
+                <term>acid rain</term>
+                <term>biodiversity</term>
+                <term>biosphere</term>
+                <term>climate</term>
+                <term>deforestation</term>
+                <term>ecology</term>
+                <term>ecosystem</term>
+                <term>extinct</term>
+                <term>environment</term>  
+                <term>forest</term>
+                <term>green house effect</term>
+                <term>green house gas</term>
+                <term>green house gases</term>
+                <term>natural resources</term>
+                <term>pollution</term>
+                <term>reforestation</term>
+                <term>species</term>
+                <term>tree</term>
+                <term>wildlife</term>
+            </terms>
+        </subCategory>
+        <subCategory name="Health">
+       
+            <terms weight="3">
+                <term>health</term>
+                <term>medical</term>
+                <term>medical team</term>
+                <term>disease</term>
+                <term>diseases</term>
+                <term>medicine</term>
+                <term>medicines</term>
+                <term>treatment</term>
+                <term>doctor</term>
+                <term>doctors</term>
+                <term>health posts</term>
+                <term>nurse</term>
+                <term>nurses</term>
+                <term>patients</term>
+            </terms>
+        </subCategory>
+        
+        
+        <subCategory name="Politics">
+  
+            <politicians weight="5">
+        
+                <name>Krishna Prasad Bhattarai</name>
+    
+    
+        
+                <name>Girija Prasad Koirala</name>
+    
+    
+        
+                <name>Madhav Kumar Nepal</name>
+    
+    
+        
+                <name>Sher Bahadur Deuba</name>
+    
+    
+        
+                <name> Lokendra Bahadur Chand</name>
+    
+    
+        
+                <name> Surya Bahadur Thapa</name>
+    
+    
+        
+                <name> Pashupati SBJ Rana</name>
+    
+    
+        
+                <name> Badri Prasad Mandal</name>
+    
+    
+        
+                <name>Narayan Man Bijukchhe</name>
+    
+    
+        
+                <name> Amik Sherchan</name>
+    
+    
+        
+                <name> Aanandi Devi Singh</name>
+    
+    
+        
+                <name> Lila Mani Pokhrel</name>
+    
+    
+        
+                <name> CP Mainali</name>
+    
+    
+        
+                <name>Bharat Mohan Adhikari</name>
+    
+    
+        
+                <name> KP Oli</name>
+    
+    
+        
+                <name>Amrit Kumar Bohara</name>
+    
+    
+        
+                <name> Bam Dev Gautam</name>
+    
+    
+        
+                <name>Sahana Pradhan</name>
+    
+    
+        
+                <name>Pradeep Nepal</name>
+    
+    
+        
+                <name>Ishwor Pokhrel</name>
+    
+    
+        
+                <name> Krishna Gopal Shrestha</name>
+    
+    
+        
+                <name>Asta Laxmi Shakya</name>
+    
+    
+        
+                <name>Rajendra Pandey</name>
+    
+    
+        
+                <name>Mahendra Bahadur Pandey</name>
+    
+    
+        
+                <name>Jagadish Sah</name>
+    
+    
+        
+                <name>Rup Narayan Shrestha</name>
+    
+    
+        
+                <name>Rajendra Rai</name>
+    
+    
+        
+                <name>Binod Dhakal</name>
+    
+    
+        
+                <name>Nona Koirala</name>
+    
+    
+        
+                <name>Ram Chandra Poudel</name>
+    
+    
+        
+                <name>Govinda Raj Joshi</name>
+    
+    
+        
+                <name> Narahari Acharya</name>
+    
+    
+        
+                <name>Laxman Prasad Ghimire</name>
+    
+    
+        
+                <name> Chakra P Bastona</name>
+    
+    
+        
+                <name>Amod P Upadhyaya</name>
+    
+    
+        
+                <name> Ram Kumar Chaudhari</name>
+    
+    
+        
+                <name>Tarini Datta Chataut</name>
+    
+    
+        
+                <name>Gopal Rai</name>
+    
+    
+        
+                <name> Surendra P Chaudhar</name>
+    
+    
+        
+                <name>Yagya Raj Sunuwar</name>
+    
+    
+        
+                <name>Lekhnath Neupane</name>
+    
+    
+        
+                <name>Shiv Kumar Basnet</name>
+    
+    
+        
+                <name> Ram Nath Adhikari</name>
+    
+    
+        
+                <name> Madhu Acharya</name>
+    
+    
+        
+                <name> Guru Raj Ghimire</name>
+    
+    
+        
+                <name> Kundan Raj Kafle</name>
+    
+    
+        
+                <name> Sagar Thapa</name>
+    
+    
+        
+                <name>Keshav Singh</name>
+    
+    
+        
+                <name>Nilambar Acharya</name>
+    
+    
+        
+                <name>Nanda Kumar Prasain</name>
+    
+    
+        
+                <name>Bijay Kumar Gachchhedar</name>
+    
+    
+        
+                <name>Purna Bahadur Khadka</name>
+    
+    
+        
+                <name>Haribol Bhattarai</name>
+    
+    
+        
+                <name>Bal Krishna Khand</name>
+    
+    
+        
+                <name>Kishor Singh Rathor</name>
+    
+    
+        
+                <name>Indu Sharma</name>
+    
+    
+        
+                <name>Kalyan Gurung</name>
+    
+    
+        
+                <name>Chauenlai Shrestha</name>
+    
+    
+        
+                <name>Parul Chhetri</name>
+    
+    
+        
+                <name> Nawaraj Koirala</name>
+    
+    
+        
+                <name> Anis Ansari</name>
+    
+    
+        
+                <name>Arjun Sah</name>
+    
+    
+        
+                <name>Bindeshwor Yadav</name>
+    
+    
+        
+                <name>Ram Datta Sah</name>
+    
+    
+        
+                <name>Jagannath Das</name>
+    
+    
+        
+                <name>Umesh Misra</name>
+    
+    
+        
+                <name> Kapileshwor Sah</name>
+    
+    
+        
+                <name>Ram Chandra Yadav</name>
+    
+    
+        
+                <name>Mahesh Yadav</name>
+    
+    
+        
+                <name>Dinesh Yadav</name>
+    
+    
+        
+                <name> Diwakar Devkota</name>
+    
+    
+        
+                <name>Ram Dev Sah</name>
+    
+    
+        
+                <name>Ersad Ansari</name>
+    
+    
+        
+                <name>Anil Dev</name>
+    
+    
+        
+                <name>Sushil Sewa</name>
+    
+    
+        
+                <name>Pawan Singh</name>
+    
+    
+        
+                <name>Deepak Sah</name>
+    
+    
+        
+                <name>Kishor Kumar Yadav</name>
+    
+    
+        
+                <name>Basang Sah</name>
+    
+    
+        
+                <name>Ashok Koirala</name>
+    
+    
+        
+                <name> Dilip Sapkota</name>
+    
+    
+        
+                <name>Gopal Raj Rajbhandari</name>
+    
+    
+        
+                <name>Gita Pathak</name>
+    
+    
+        
+                <name>Amrit Aryal</name>
+    
+    
+        
+                <name>Suvas Poudel</name>
+    
+    
+        
+                <name> Puskar Acharya</name>
+    
+    
+        
+                <name>Ram Naresh Yadav</name>
+    
+    
+        
+                <name>Laxmi Basnet</name>
+    
+    
+        
+                <name>Shiv Narayan Sinha</name>
+    
+    
+        
+                <name>Saroj Acharya</name>
+    
+    
+        
+                <name> Rukmini Koirala</name>
+    
+    
+        
+                <name>Kalyan KC</name>
+    
+    
+        
+                <name>Keshav Basnet</name>
+    
+    
+        
+                <name>Man Bahadur Rai</name>
+    
+    
+        
+                <name>Shyam Pokhrel</name>
+    
+    
+        
+                <name>Damodar Koirala</name>
+    
+    
+        
+                <name>Mana Lal Yadav</name>
+    
+    
+        
+                <name>Basu Koirala</name>
+    
+    
+        
+                <name> Ram Kumar Khatri</name>
+    
+    
+        
+                <name>Babu Ram Koirala</name>
+    
+    
+        
+                <name>Ganga Datta Joshi</name>
+    
+    
+        
+                <name>Yagya Raj Joshi</name>
+    
+    
+        
+                <name>Prem Bista</name>
+    
+    
+        
+                <name>Bhairav Singh Air</name>
+    
+    
+        
+                <name>Narayan Datta Pant</name>
+    
+    
+        
+                <name> Govinda Bista</name>
+    
+    
+        
+                <name>Riti Raj Chataut</name>
+    
+    
+        
+                <name>Madan Chand</name>
+    
+    
+        
+                <name> Bhoj Bahadur Rawal</name>
+    
+    
+        
+                <name> Dharmananda Bhatta</name>
+    
+    
+        
+                <name>Ambadatta Joshi</name>
+    
+    
+        
+                <name>Padam Pandit</name>
+    
+    
+        
+                <name>Tara Datta Awasti</name>
+    
+    
+        
+                <name>Karna Bahadur Shah</name>
+    
+    
+        
+                <name>Bishnu Misra</name>
+    
+    
+        
+                <name> Nain Singh Gurung</name>
+    
+    
+        
+                <name>Dhani Ram Bohora</name>
+    
+    
+        
+                <name>Ram Singh Air</name>
+    
+    
+        
+                <name>Manorath Pandey</name>
+    
+    
+        
+                <name>Hom Nath Dahal</name>
+    
+    
+        
+                <name>Prakashman Singh</name>
+    
+    
+        
+                <name> Bimalendra Nidhi</name>
+    
+    
+        
+                <name>Dr. Prakash Sharan Mahat</name>
+    
+    
+        
+                <name>Dr. Minendra Rijal</name>
+    
+    
+        
+                <name> Trilok Pratap Rana</name>
+    
+    
+        
+                <name>Gopal Raj Pahari</name>
+    
+    
+        
+                <name>Tirtha Ram Dangol</name>
+    
+    
+        
+                <name>Rajan Rai</name>
+    
+    
+        
+                <name>Om Prakash Aryal</name>
+    
+    
+        
+                <name>Mahesh Devkota</name>
+    
+    
+        
+                <name>Lochan KC</name>
+    
+    
+        
+                <name>Deepak Kumar Rai</name>
+    
+    
+        
+                <name>Jyoti Sharma</name>
+    
+    
+        
+                <name>Dilli Ram Bohara</name>
+    
+    
+        
+                <name>Dilip Rai</name>
+    
+    
+        
+                <name>Devi Gyawali</name>
+    
+    
+        
+                <name>Ramakant Sapkota</name>
+    
+    
+        
+                <name>Ram Singh Bishwokarma</name>
+    
+    
+        
+                <name>Shushil Koirala</name>
+    
+    
+        
+                <name>Dilip Neupane</name>
+    
+    
+        
+                <name>Ramesh Chhetri</name>
+    
+    
+        
+                <name>Shreedhar Parajuli</name>
+    
+    
+        
+                <name>Narayan Sapkota</name>
+    
+    
+        
+                <name>Ram Nath Gaire</name>
+    
+    
+        
+                <name>Indra P Lamichhane</name>
+    
+    
+        
+                <name>Padam Giri, Unidentified</name>
+    
+    
+        
+                <name>Suraj Hamal</name>
+    
+    
+        
+                <name>Ganesh Regmi</name>
+    
+    
+        
+                <name>Krishna KC</name>
+    
+    
+        
+                <name>Bhoj Raj Baral</name>
+    
+    
+        
+                <name>Binod Poudel</name>
+    
+    
+        
+                <name>Santosh Khatri</name>
+    
+    
+        
+                <name>Ram Chandra Kafle</name>
+    
+    
+        
+                <name>Krishna Subedi</name>
+    
+    
+        
+                <name>Shalik Ram Shahi</name>
+    
+    
+        
+                <name>Jeet Gurung</name>
+    
+    
+        
+                <name>Damodar Gyawali</name>
+    
+    
+        
+                <name> Kamal Raj Poudel</name>
+    
+    
+        
+                <name>Dev Raj Tiwari</name>
+    
+    
+        
+                <name>Narendra Karki</name>
+    
+    
+        
+                <name>Rami Lama</name>
+    
+    
+        
+                <name>Jhalak Man Baral</name>
+    
+    
+        
+                <name>pushpa kamal dahal (prachanda)</name>
+    
+    
+        
+                <name>Babu Ram Bhattarai</name>
+    
+    
+        
+                <name>Hishila yami</name>
+    
+    
+        
+                <name>Mohan Bhaidya (kiran)</name>
+    
+    
+        
+                <name>Krishna Bahadur Mahara</name>
+    
+    
+        
+                <name>Ram Bahadur Thapa (Badal)</name>
+    
+    
+        
+                <name>Jhal Nath Khanal</name>
+    
+    
+        
+                <name>Top Bahadur Rayamajhi</name>
+    
+    
+        
+                <name>Barshaman Pun</name>
+    
+    
+        
+                <name>Khadga Bahadur Biswokarma</name>
+    
+    
+        
+                <name>Gangalal Tuladhar</name>
+    
+    
+        
+                <name>Bishnu Paudel</name>
+            </politicians>
+    
+            <parties weight="5">
+    
+                <party> Nepal Sukumbasi Party (Loktantrik)</party>
+    
+    
+                <party>Chure Bhawar Rastriya Ekta Party Nepal</party>
+    
+    
+                <party>Communist Party of Nepal</party>
+    
+    
+                <party>Communist Party of Nepal (Marxist-Leninist)</party>
+    
+    
+                <party>Communist Party of Nepal (Unified)</party>
+    
+    
+                <party>Communist Party of Nepal (United Marxist)</party>
+    
+    
+                <party>Communist Party of Nepal Marxist-Leninist (Samajba</party>
+    
+    
+                <party>Dalit Janajati Party</party>
+    
+    
+                <party>Hariyali Nepal Party</party>
+    
+    
+                <party>Hindu Prajatantrik Party</party>
+    
+    
+                <party>Janamukti Party Nepal</party>
+    
+    
+                <party>League Nepal Shanti Ekta Party</party>
+    
+    
+                <party>Liberal Samajbadi Party</party>
+    
+    
+                <party>Lok Kalayankari Janata Party Nepal</party>
+    
+    
+                <party>Loktantrik janata Party Nepal</party>
+    
+    
+                <party>Madhesi Jana Adhikar Forum</party>
+    
+    
+                <party>Madhesi Jana Adhikar Forum Democratic</party>
+    
+    
+                <party>maoist</party>
+    
+    
+                <party>Mongol National Organisation</party>
+    
+    
+                <party>Muskan Sena Nepal Party</party>
+    
+    
+                <party>Nawa Janabadi Morcha</party>
+    
+    
+                <party>Nawa Nepal Prajatantrik Dal</party>
+    
+    
+                <party>Nepal Bahudal Party</party>
+    
+    
+                <party>Nepal Co-operative Party</party>
+    
+    
+                <party>Nepal Communist Party (Marxist)</party>
+    
+    
+                <party>Nepal Communist Party (Marxist-Leninist-Maoist Cen</party>
+    
+    
+                <party>Nepal Dalit Shramik Morcha</party>
+    
+    
+                <party>Nepal Jagriti Dal</party>
+    
+    
+                <party>Nepal Janabhavana Party</party>
+    
+    
+                <party>Nepal Janata Party</party>
+    
+    
+                <party>Nepal Jansangh Party</party>
+    
+    
+                <party>Nepal Loktantrik Samajbadi Dal</party>
+    
+    
+                <party>Nepal Parivar Dal</party>
+    
+    
+                <party>Nepal Prajatantrik Yuba Party</party>
+    
+    
+                <party>Nepal Rastriya Bikas Party</party>
+    
+    
+                <party>Nepal Rastriya Janakalayan Party</party>
+    
+    
+                <party>Nepal Rastriya Loktantrik Dal</party>
+    
+    
+                <party>Nepal Sadbhavana Party (Anandidevi)</party>
+    
+    
+                <party>Nepal Samata Party</party>
+    
+    
+                <party>Nepal Samyabadi Dal</party>
+    
+    
+                <party>Nepal Shanti Kshetra Parishad</party>
+    
+    
+                <party>Nepal Workers Peasants Party</party>
+    
+    
+                <party>Nepali congress</party>
+    
+    
+                <party>Nepali Congress (Rastrabadi)</party>
+    
+    
+                <party>Nepali Janata Dal</party>
+    
+    
+                <party>Nepali Janatantra Party</party>
+    
+    
+                <party>Nepali Rastriya Janabhavana Party</party>
+    
+    
+                <party>Prajatantrik Janamukti Party</party>
+    
+    
+                <party>Prajatantrik Shanti Party</party>
+    
+    
+                <party>Rastrabadi Ekta Party</party>
+    
+    
+                <party>Rastrabadi Milan Kendra Nepal Dal</party>
+    
+    
+                <party>Rastrabadi Yuba Morcha</party>
+    
+    
+                <party>Rastriya Bikas Party</party>
+    
+    
+                <party>Rastriya Jan Prajatantrik Party</party>
+    
+    
+                <party>Rastriya Janamorcha</party>
+    
+    
+                <party>Rastriya Janamukti Party</party>
+    
+    
+                <party>Rastriya Janata Dal</party>
+    
+    
+                <party>Rastriya Janata Dal Nepal</party>
+    
+    
+                <party>Rastriya Janshakti Party</party>
+    
+    
+                <party>Rastriya Prajatantra Party</party>
+    
+    
+                <party>Rastriya Prajatantra Party Nepal</party>
+    
+    
+                <party>Sa-Shakti Nepal</party>
+    
+    
+                <party>Sadbhavana Party</party>
+    
+    
+                <party>Samajbadi Party Nepal</party>
+    
+    
+                <party>Samajbadi Prajatantrik Janata Party, Nepal</party>
+    
+    
+                <party>Sanghiya Loktantrik Rastriya Manch</party>
+    
+    
+                <party>Shanti Party Nepal</party>
+    
+    
+                <party>Shivasena Nepal Party</party>
+    
+    
+                <party>Tamsalin Nepal Rastriya Dal</party>
+    
+    
+                <party>Tarai-Madhesh Loktantrik Party</party>
+    
+    
+                <party>Tarai-Madhesh Loktantrik Party Nepal</party>
+    
+    
+                <party>Unified Marxist-Leninist</party>
+    
+            </parties>
+        </subCategory>
+
+        <subCategory name="Science">
+            
+        </subCategory>
+            
+        <subCategory name="Security">
+        </subCategory>
+        
+    </category>
+    
+    <category name="Sports">
+        <subCategory name="Badminton">
+            <terms weight="3">
+                <term>badminton</term>
+                <term>shuttler</term>
+                <term>shuttlers</term>
+            </terms>
+        </subCategory>
+        <subCategory name="Football">
+            <clubs weight="5">
+                <club>Armed Police Force Club</club>
+                <club>Machhindra Football Club</club>
+                <club>Friends Club</club>
+                <club>Manang Marshyandi Club</club>
+                <club>Nepal Police Club</club>
+                <club>New Road Team</club>
+                <club>Ranipokhari Corner Team</club>
+                <club>Sankata Boys Sports Club</club>
+                <club>Three Star Club</club>
+                <club>Nepal Army Club</club>
+            </clubs>
+            <players weight="5">
+                <name>Ganesh Lawati</name>
+                <name>Niraj Shrestha</name>
+                <name>Kumar Thapa</name>
+                <name>Top Bhahadur Bista</name>
+                <name>Deepak Khadka</name>
+                <name>Eddi Guratanka</name>
+                <name>Bijay Gurung</name>
+                <name>Bishal Shrestha</name>
+                <name>Dipak Bhushal</name>
+                <name>Ganesh Khadka</name>
+                <name>Ganesh Thapa Magar</name>
+                <name>Kalou Tiabe</name>
+                <name>Nirajan Khadka</name>
+                <name>Palsang Lama</name>
+                <name>Sulman Ben Ageyo</name>
+                <name>Sanjay Gurung</name>
+                <name>Dendricson Rebello Marela</name>
+                <name>Sujal Shrestha</name>
+                <name>Dolbay Edmond</name>
+                <name>Shiva Shrestha</name>
+                <name>Czen Mu Hueng</name>
+                <name>Devon Mpuana</name>
+                <name>Anil Gurung</name>
+                <name>Yogesh Shrestha</name>
+                <name>Ananta Raj Thapa</name>
+                <name>Dipak Paudel</name>
+                <name>Bhola Silwal</name>
+                <name>Pankaj Shahi</name>
+                <name>Jitendra Simha Bista</name>
+                <name>Suman Subedi</name>
+                <name>Yogesh Gurung</name>
+                <name>Sushil Shrestha</name>
+                <name>Ritesh Thapa</name>
+                <name>Tika Karki</name>
+                <name>Rakesh Shrestha</name>
+                <name>Suraj B.K.</name>
+                <name>Dipendra Paudel</name>
+                <name>Rabin Shrestha</name>
+                <name>Parbat Pandey</name>
+                <name>Dipendra Shrestha</name>
+                <name>Roshan Karki</name>
+                <name>Bharat Khawas</name>
+                <name>Ju Manu Rai</name>
+                <name>Pradip Baniya</name>
+                <name>David Helmsly</name>
+                <name>Biraj Maharjan</name>
+                <name>Olwen Major</name>
+                <name>Anil Ojha</name>
+                <name>Eledson Figo</name>
+                <name>Yogesh Shrestha</name>
+                <name>Austinson</name>
+                <name>Vishan Gauchan</name>
+                <name>Bishnu Gurung</name>
+                <name>Qzaye Obadi</name>
+                <name>Kiran Chemjong</name>
+                <name>Michael Zemazzi</name>
+                <name>Sanjeev Budhathoki</name>
+                <name>Raju Rai</name>
+                <name>Sayidzc Mugeret</name>
+                <name>Sabinaya Joshi</name>
+                <name>Suvam Shrestha</name>
+                <name>Birkov Pitowski</name>
+                <name>Ravi Thapa</name>
+                <name>Dani Rosakson</name>
+                <name>Bikash Malla</name>
+                <name>Santosh Nepali</name>
+                <name>Chun Bahadur Thapa</name>
+                <name>Ram Kumar Biswas</name>
+                <name>Hiranya Magar</name>
+            </players>
+            <terms>
+                <term>football</term>
+                <term>AFC</term>
+                <term>ANFA</term>
+                <term>goalkeeper</term>
+                <term>GK</term>
+                <term>defender</term>
+                <term>DF</term>
+                <term>midfielder</term>
+                <term>MF</term>
+                <term>forward</term>
+                <term>FW</term>
+            </terms>
+        </subCategory>
+        
+        <subCategory name="Cricket">
+            <players>
+                <name>Parash Khadka</name>
+                <name>Gyanendra Malla</name>
+                <name>Sujan Chapagain</name>
+                <name>Shakti Gauchan</name>
+                <name>Sharad Vesawkar</name>
+                <name>Mahesh Chhetri</name>
+                <name>Anil Mandal</name>
+                <name>Amrit Bhattarai</name>
+                <name>Basanta Regmi</name>
+                <name>Binod Das</name>
+                <name>Sanjam Regmi</name>
+                <name>Rahul Kumar BK</name>
+                <name>Mahaboob Alam</name>
+                <name>Manjeet Shrestha</name>
+                <name>Pradeep Airee</name>
+            </players>
+            <terms>
+                <term>cricket</term>    
+                <term>ACC</term> 
+                <term>ICC</term> 
+                <term>CAN</term> 
+                <term>wicket</term> 
+                <term>run</term> 
+                <term>LBW</term>  
+                <term>century</term>
+            </terms>
+        </subCategory>
+        <subCategory name="Basketball">
+            <terms weight="4">
+                <term>basketball</term>
+            </terms>
+            
+            <players weight="3">
+                <name>Bipendra Maharjan</name>
+            </players>
+        </subCategory>
+    
+        <subCategory name="Golf">
+            <players weight="4">
+                <name>Deepak Thapa Magar</name>
+                <name>Deepak Acharya</name>
+                <name>Shiv Ram Shrestha</name>
+                <name>Rupak Acharya</name>
+            </players>
+                
+            <terms weight="4">
+                <term>golf</term>
+            </terms>
+                
+            <organization weight="4">
+                <name>Gokarna Golf Club</name>
+                <name>Nepal Professional Golf Association</name>
+                <name>NPGA</name>
+                <name>Surya Nepal Masters</name>
+            </organization>
+        </subCategory>
+        
+        <subCategory name="Swimming">
+            <players weight="5">
+                <player>Shreya Dhital</player>
+                <player>Karishma Karki</player>
+                <player>Shaila Rana</player>
+                <player>Nayana Shakya</player>
+                <player>Prasiddha Jung Shah</player>
+                <player>Shailesh Rana</player>
+            </players>
+            
+            <terms weight="3">
+                <term>swimming</term>
+                <term>breaststroke</term>
+                <term>backstroke</term>
+            </terms>
+            
+            <terms weight="2">
+                <term>freestyle</term>
+                <term>butterfly</term>
+           
+            </terms>
+        </subCategory>
+        
+        <subCategory name="Tennis">
+            <players weight="5">
+                <name>Kumar Adhikari</name>
+                <name>Jitendra Pariyar</name>
+                <name>Preeti Rijal</name>
+                <name>Priti Rijal</name>
+                <name>Aslesha Lissanevitch</name>
+                <name>Ivanho Lissanevitch</name>
+            </players>
+        </subCategory>
+        
+        <subCategory name="Volleyball">
+            <players weight="5">
+                <name>Sipora Gurung</name>
+                <name>Manju Gurung</name>
+                <name>Pratichhya Gurung</name>
+            </players>
+        </subCategory>
+    </category>
+    
+    <category name="Business">
+        <subCategory name="Business">
+            <organization weight="4">
+                <name>Khetan Group</name>
+                <name>Vaidya's Group</name>
+                <name>Sarada Group</name>
+                <name>Jyoti Group</name>
+                <name>Sherpa Group</name>
+                <name>Golchha Organization</name>
+                <name>International Monetary Fund</name>
+                <name>IMF</name>
+                <name>Ministry of Finance</name>
+            </organization>
+        
+            <terms weight="3">
+                <term>budget</term>
+                <term>finance minister</term>
+                <term>fiscal year</term>
+                <term>loan</term>
+                <term>expenditure</term>
+                <term>inflation</term>
+                <term>economy</term>
+                <term>business</term>
+                <term>remittance</term>
+                <term>stock exchange</term>
+                <term>exchange rate</term>
+                <term>GDP</term>
+                <term>market</term>
+                <term>trade</term>
+                <term>trader</term>
+                <term>traders</term>
+                <term>tax</term>
+                <term>vat</term>
+                <term>revenue</term>
+                <term>grant</term>
+            </terms>
+        </subCategory>
+       
+    </category>
+
+</root>
